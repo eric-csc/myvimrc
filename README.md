@@ -1,0 +1,2 @@
+# myvimrc
+setting for vimrc
